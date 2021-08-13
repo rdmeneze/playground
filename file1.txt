@@ -1,6 +1,7 @@
 #include feature1.txt
 #include feature2.txt
 #include feature3.txt
+#include feature5.txt
 
 
 linha 1
@@ -8,3 +9,4 @@ linha 2
 linha 3
 
 feature2();
+feature5();
